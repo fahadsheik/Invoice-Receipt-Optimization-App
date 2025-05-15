@@ -1,6 +1,6 @@
 # 📄 Invoice MCP Demo – Invoice Receipt Optimization using MCP
 
-**Live Demo:** [https://invoiceoptimcp.netlify.app/upload](https://invoiceoptimcp.netlify.app/upload)
+**Live Demo:** [https://invoiceoptimcp.netlify.app](https://invoiceoptimcp.netlify.app)
 
 ---
 
