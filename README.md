@@ -86,15 +86,3 @@ Then open `http://localhost:3000` in your browser.
 
 
 
-## 📣 Author & Credits
-
-Developed by \[Your Name]
-Part of a System Design submission demonstrating real-world business optimization through MCP (Multi-Channel Processing) servers.
-
----
-
-## 📌 License
-
-This project is created for educational and demonstrative purposes only.
-Not intended for commercial deployment or production use.
-
